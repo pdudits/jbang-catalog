@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "bunana": {
+      "script-ref": "bunana.java"
+    }
+  },
+  "templates": {}
+}
